@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Skillspire Workshop app/1.0.0": {
+        "runtime": {
+          "Skillspire Workshop app.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Skillspire Workshop app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

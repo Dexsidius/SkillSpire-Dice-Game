@@ -1,0 +1,14 @@
+C:\Users\dada1\source\repos\Skillspire Workshop app\Skillspire Workshop app\bin\Debug\netcoreapp3.1\Skillspire Workshop app.exe
+C:\Users\dada1\source\repos\Skillspire Workshop app\Skillspire Workshop app\bin\Debug\netcoreapp3.1\Skillspire Workshop app.deps.json
+C:\Users\dada1\source\repos\Skillspire Workshop app\Skillspire Workshop app\bin\Debug\netcoreapp3.1\Skillspire Workshop app.runtimeconfig.json
+C:\Users\dada1\source\repos\Skillspire Workshop app\Skillspire Workshop app\bin\Debug\netcoreapp3.1\Skillspire Workshop app.runtimeconfig.dev.json
+C:\Users\dada1\source\repos\Skillspire Workshop app\Skillspire Workshop app\bin\Debug\netcoreapp3.1\Skillspire Workshop app.dll
+C:\Users\dada1\source\repos\Skillspire Workshop app\Skillspire Workshop app\bin\Debug\netcoreapp3.1\Skillspire Workshop app.pdb
+C:\Users\dada1\source\repos\Skillspire Workshop app\Skillspire Workshop app\obj\Debug\netcoreapp3.1\Skillspire Workshop app.csproj.AssemblyReference.cache
+C:\Users\dada1\source\repos\Skillspire Workshop app\Skillspire Workshop app\obj\Debug\netcoreapp3.1\Skillspire Workshop app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dada1\source\repos\Skillspire Workshop app\Skillspire Workshop app\obj\Debug\netcoreapp3.1\Skillspire Workshop app.AssemblyInfoInputs.cache
+C:\Users\dada1\source\repos\Skillspire Workshop app\Skillspire Workshop app\obj\Debug\netcoreapp3.1\Skillspire Workshop app.AssemblyInfo.cs
+C:\Users\dada1\source\repos\Skillspire Workshop app\Skillspire Workshop app\obj\Debug\netcoreapp3.1\Skillspire Workshop app.csproj.CoreCompileInputs.cache
+C:\Users\dada1\source\repos\Skillspire Workshop app\Skillspire Workshop app\obj\Debug\netcoreapp3.1\Skillspire Workshop app.dll
+C:\Users\dada1\source\repos\Skillspire Workshop app\Skillspire Workshop app\obj\Debug\netcoreapp3.1\Skillspire Workshop app.pdb
+C:\Users\dada1\source\repos\Skillspire Workshop app\Skillspire Workshop app\obj\Debug\netcoreapp3.1\Skillspire Workshop app.genruntimeconfig.cache
